@@ -1,6 +1,8 @@
 # DS440_3a
 
 This repository contains the code and data that Dylan & Josh used for their DS 440 Capstone at PSU
+
+
 The file 440_Test.ipynb contains the scripts for importing the data, processing the tweets, running BERT, running TF-IDF, and running KFOLD with Random Forest, Gradient Boosting and ADABoost Classifier
 
 The environmental tweets csv is the test data we used
